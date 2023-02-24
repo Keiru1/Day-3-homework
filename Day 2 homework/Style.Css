@@ -1,0 +1,97 @@
+
+
+
+body{
+    margin: 30px;border:20px;
+}
+
+h1 {
+    text-align: center;
+}
+p{ margin: 50px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+h1,h2,h3,h4,h5,h6 {
+    text-align: center
+}
+
+body{ 
+    text-align:center;
+    margin:0;
+    
+    
+}
+
+.logo{
+    width:400px;
+    padding: 2px;
+}
+
+.wordlogo{
+    border-color:blue;
+    border-top: 20mm;
+    border-radius:20mm;
+    background-color:rgb(215, 211, 146);
+}
+
+.wordlogo span {
+    font-weight: bold;
+}
+
+h2,h5 { 
+    font-size: 2rem;
+}
+
+#author {
+    margin:0
+}
+
+h3,h4{ 
+    font-weight:bold;
+    font-size: 1rem
+}
+h5 {
+    margin: 1px;
+}
+.dough { 
+    font-weight:bold;
+    margin: 3mm;
+}
+
+#method { 
+    margin:2px;
+    text-align:center
+}
+
+.list { 
+    list-style-position:inside; 
+    padding-left: 0;
+    justify-content: center;
+    display: block;
+    
+
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        padding-inline-start: 40px;
+    
+    
+}
+ul { 
+    padding-left: 0%;
+    
+   justify-content: center;
+
+}
+
+.Simply { 
+
+} 
